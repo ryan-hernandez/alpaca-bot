@@ -8,4 +8,4 @@ virtualenv/
 .idea/
 .pycproject
 .pydevproject
-api_keys.txt
+/api_keys.txt
